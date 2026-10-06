@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093087693626",
+    "project_id": "coworkspace-app-2026",
+    "storage_bucket": "coworkspace-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093087693626:android:59c7900190f41aad1ade03",
+        "android_client_info": {
+          "package_name": "com.example.coworkspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskJ29slVpaNYiAIXQG7hL4tQhnqUGlN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
